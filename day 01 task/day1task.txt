@@ -1,0 +1,20 @@
+Write a blog on Difference between HTTP1.1 vs HTTP2?
+
+HTTP1.1
+ =>  HTTP/1.1 in 1997 until recently, there have been few revisions to the protoco.
+ =>  HTTP/1.1, which keeps all requests and responses in plain text format.
+ =>  HTTP1.1used to process text commands to complete request-response cycles.
+
+HTTP2
+ =>  In 2015, a reimagined version called HTTP/2  came into use.
+ =>  HTTP/2 uses the binary framing layer to encapsulate all messages in binary format.
+ =>  HTTP/2 will use binary commands (in 1s and 0s) to execute the same tasks.
+
+
+Write a blog about objects and its internal representation in Javascript?
+  => Objects in JavaScript, just as in many other programming languages, can be 
+compared to objects in real life. The concept of objects in JavaScript can be 
+understood with real life, tangible objects.
+  =>Objects, in JavaScript, is it’s most important data-type and forms the building blocks for modern JavaScript. 
+These objects are quite different from JavaScript’s primitive data-types(Number, String, Boolean, null, undefined 
+and symbol) in the sense that while these primitive data-types all store a single value each (depending on their types).
